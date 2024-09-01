@@ -18,7 +18,7 @@ Web Browsers: Execute the commands and perform actions on web pages.
 
 ## Directory Structure
 
-1. POM Directory Structure:
+POM Directory Structure:
 ```
 CW_POM_1
 ├── src/
@@ -44,7 +44,7 @@ CW_POM_1
 └── pom.xml
 ```
 
-2. Cucumber Directory Structure:
+Cucumber Directory Structure:
 ```
 CW_Cucumber_2/
 ├── src/
@@ -67,7 +67,7 @@ CW_Cucumber_2/
 ## Features
 Operations Performed in the Project:
 
-1.Page Object Model (POM) Implementation
+Page Object Model (POM) Implementation
 
 Designed and implemented Page Object Model to structure page-specific classes.  
 Defined page objects and actions for the 'Apparel and Accessories' module.
@@ -77,7 +77,7 @@ Applied explicit and implicit waits to handle dynamic elements and ensure reliab
 Automated the capture of screenshots for key test steps
 Generated Extent Reports for detailed insights into test execution results.
 
-2.Cucumber Framework Implementation:
+Cucumber Framework Implementation:
 
 Developed feature files for the 'Apparel and Accessories' module.
 Applied explicit and implicit waits to handle dynamic elements and ensure reliable test execution.
