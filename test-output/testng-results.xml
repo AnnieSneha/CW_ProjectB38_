@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-01T20:34:36 IST" name="Default suite" finished-at="2024-09-01T20:37:37 IST" duration-ms="181382">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@548a24a]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-09-01T20:34:36 IST" name="Default test" finished-at="2024-09-01T20:37:37 IST" duration-ms="181382">
+      <class name="runner.TestRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.TestRunner@548a24a]" started-at="2024-09-01T20:34:36 IST" name="setUpClass" finished-at="2024-09-01T20:34:36 IST" duration-ms="312" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7f93f4c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@548a24a]" started-at="2024-09-01T20:34:36 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-01T20:34:42 IST" duration-ms="6348" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Navigating to the Shorts and Trousers page from the home page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Accessoires of Apparel and Accessory"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@548a24a]" started-at="2024-09-01T20:34:42 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-01T20:35:12 IST" duration-ms="29738" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate by entering  all the filter options on Sportswear"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Accessoires of Apparel and Accessory"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@548a24a]" started-at="2024-09-01T20:35:12 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-01T20:35:27 IST" duration-ms="14533" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate by comparing the items of Sportwear"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Accessoires of Apparel and Accessory"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@548a24a]" started-at="2024-09-01T20:35:27 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-01T20:35:40 IST" duration-ms="13028" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate the Sort By dropdown in the Jackets"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Accessoires of Apparel and Accessory"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@548a24a]" started-at="2024-09-01T20:35:40 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-01T20:35:48 IST" duration-ms="8079" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate the Shawls feature of Apparel and Accessories and Asserting the checkbox of Personalise Search"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Womens Wear of Apparel and Accessories"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@548a24a]" started-at="2024-09-01T20:35:48 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-01T20:35:56 IST" duration-ms="8303" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate the Kurtis & Dupatta feature by Search functionality"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Womens Wear of Apparel and Accessories"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@548a24a]" started-at="2024-09-01T20:35:56 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-01T20:36:09 IST" duration-ms="12925" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate the Dress Material feature for a Quick View"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Womens Wear of Apparel and Accessories"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@548a24a]" started-at="2024-09-01T20:36:09 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-01T20:36:21 IST" duration-ms="12141" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate the Brands filter of Nightwear feature"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Womens Wear of Apparel and Accessories"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@548a24a]" started-at="2024-09-01T20:36:21 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-01T20:36:36 IST" duration-ms="15266" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate the Price filter of Nightwear feature"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Womens Wear of Apparel and Accessories"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@548a24a]" started-at="2024-09-01T20:36:36 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-01T20:36:43 IST" duration-ms="7041" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate the Discount and Material filter of Shawls feature"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Womens Wear of Apparel and Accessories"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@548a24a]" started-at="2024-09-01T20:36:43 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-01T20:36:52 IST" duration-ms="8268" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate by navigating mutliple features of Womens Wear"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Womens Wear of Apparel and Accessories"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@548a24a]" started-at="2024-09-01T20:36:52 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-01T20:36:59 IST" duration-ms="6932" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate by Adding the product to the cart"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Womens Wear of Apparel and Accessories"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@548a24a]" started-at="2024-09-01T20:36:59 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-01T20:37:07 IST" duration-ms="8035" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate by comparing two products"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Womens Wear of Apparel and Accessories"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@548a24a]" started-at="2024-09-01T20:37:07 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-01T20:37:29 IST" duration-ms="21970" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate the filter functionlaity of Nightwear"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Womens Wear of Apparel and Accessories"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@548a24a]" started-at="2024-09-01T20:37:29 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-01T20:37:37 IST" duration-ms="8368" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To validate the by out of stock item"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Womens Wear of Apparel and Accessories"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.TestRunner@548a24a]" started-at="2024-09-01T20:37:37 IST" name="tearDownClass" finished-at="2024-09-01T20:37:37 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
