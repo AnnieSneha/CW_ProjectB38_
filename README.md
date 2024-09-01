@@ -12,8 +12,8 @@ E-commerce platform testing
 Frontend testing
 
 ## Architecture
-Selenium WebDriver: Provides a programming interface to create and execute test scripts. 
-Browser Drivers: Such as ChromeDriver and GeckoDriver, these act as intermediaries between the WebDriver and the browser to execute commands.
+Selenium WebDriver: Provides a programming interface to create and execute test scripts.   
+Browser Drivers: Such as ChromeDriver and GeckoDriver, these act as intermediaries between the WebDriver and the browser to execute commands.  
 Web Browsers: Execute the commands and perform actions on web pages.
 
 ## Directory Structure
