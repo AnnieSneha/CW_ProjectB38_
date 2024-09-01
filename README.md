@@ -19,7 +19,7 @@ Web Browsers: Execute the commands and perform actions on web pages.
 ## Directory Structure
 
 POM Directory Structure:
-
+```
 CW_POM_1
 ├── src/
 │   ├── main/
@@ -42,7 +42,7 @@ CW_POM_1
 │   │   └── resources/
 │   │       └── config.properties
 └── pom.xml
-
+```
 
 Cucumber Directory Structure  
 
