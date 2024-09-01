@@ -4,7 +4,7 @@
 ## Introduction
 Naaptol is an Indian online shopping platform that offers a wide variety of products across different categories, including electronics, home appliances, fashion, and more. Known for its teleshopping model, Naaptol allows customers to purchase products through its website, mobile app, and television channel. It provides a convenient shopping experience with multiple payment options and customer support channels, making it a significant player in the Indian e-commerce market.
 
-Performed using Page Object Model Frame Work
+This project involves automating the testing of the Naaptol platform using Selenium, with a focus on the 'Apparel and Accessories' module. The automation is performed using a Page Object Model (POM) framework and Cucumber framework.
 
 ## Project Type
 E-commerce platform testing
@@ -18,7 +18,7 @@ Web Browsers: Execute the commands and perform actions on web pages.
 
 ## Directory Structure
 
-POM Directory Structure:
+1. POM Directory Structure:
 ```
 CW_POM_1
 ├── src/
@@ -44,7 +44,7 @@ CW_POM_1
 └── pom.xml
 ```
 
-Cucumber Directory Structure:
+2. Cucumber Directory Structure:
 ```
 CW_Cucumber_2/
 ├── src/
@@ -64,9 +64,25 @@ CW_Cucumber_2/
 ├── pom.xml
 
 ```
-
-
 ## Features
+Operations Performed in the Project:
+
+1.Page Object Model (POM) Implementation
+
+Designed and implemented Page Object Model to structure page-specific classes.  
+Defined page objects and actions for the 'Apparel and Accessories' module.
+Used TestNG annotations for test execution
+Utilized a properties file to manage configurable data such as URLs.
+Applied explicit and implicit waits to handle dynamic elements and ensure reliable test execution.
+Automated the capture of screenshots for key test steps
+Generated Extent Reports for detailed insights into test execution results.
+
+2.Cucumber Framework Implementation:
+
+Developed feature files for the 'Apparel and Accessories' module.
+Applied explicit and implicit waits to handle dynamic elements and ensure reliable test execution.
+Automated the capture of screenshots for key test steps
+Generated Extent Reports for detailed insights into test execution results.
 
 ## Prerequisites
 Install Java Development Kit (JDK)  
@@ -84,13 +100,20 @@ Add Dependencies in pom.xml: Include Selenium, TestNG, Cucumber, Screenshots,Ext
 
 ## Usage
 1. Clone the Repository
+https://github.com/AnnieSneha/CW_ProjectB38_.git
    
-2. Create a folder and Navigate to the the folder and Open a command prompt and use the command
+3. Create a folder and Navigate to the the folder and Open a command prompt and use the command
 ```
 mvn test
 ```
 
 ## Screenshots
+
+![image](https://github.com/user-attachments/assets/5b3ca3f1-6433-486e-814b-1b4ade7cc38e)
+POM:
+![image](https://github.com/user-attachments/assets/039a0250-f9d2-421e-a061-8566c55c1e39)
+Cucumber:
+![image](https://github.com/user-attachments/assets/637cfc81-de3e-4449-b39c-7809bfc92f72)
 
 ## Link of the Website
 https://www.naaptol.com/
