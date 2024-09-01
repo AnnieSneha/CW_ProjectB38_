@@ -15,8 +15,14 @@ Performed using Page Object Model Frame Work
 ## Features
 
 ## Prerequisites
+Install Java Development Kit (JDK)  
+Install an Integrated Development Environment (IDE)  
+Install Apache Maven  
+Install IDE-SpringTool
 
 ## Project Setup
+Create a Maven project  
+Add Dependencies in pom.xml
 
 ## Usage
 
