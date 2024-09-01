@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="12" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-01T20:40:40 IST" name="Surefire suite" finished-at="2024-09-01T20:42:17 IST" duration-ms="96948">
+    <groups>
+    </groups>
+    <test started-at="2024-09-01T20:40:40 IST" name="Surefire test" finished-at="2024-09-01T20:42:17 IST" duration-ms="96948">
+      <class name="test.FinalTest">
+        <test-method is-config="true" signature="extent_report()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:40:40 IST" name="extent_report" finished-at="2024-09-01T20:40:40 IST" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extent_report -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:40:40 IST" name="setup" finished-at="2024-09-01T20:40:44 IST" duration-ms="3981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CompareItems()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:40:44 IST" name="CompareItems" finished-at="2024-09-01T20:40:49 IST" duration-ms="4790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompareItems -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:40:49 IST" name="teardown" finished-at="2024-09-01T20:40:49 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:40:49 IST" name="setup" finished-at="2024-09-01T20:40:52 IST" duration-ms="3164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Mens_Search()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:40:52 IST" name="Mens_Search" finished-at="2024-09-01T20:40:54 IST" duration-ms="1555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mens_Search -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:40:54 IST" name="teardown" finished-at="2024-09-01T20:40:54 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:40:54 IST" name="setup" finished-at="2024-09-01T20:40:58 IST" duration-ms="3953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Search_Mall()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:40:58 IST" name="Search_Mall" finished-at="2024-09-01T20:41:02 IST" duration-ms="3919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search_Mall -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:02 IST" name="teardown" finished-at="2024-09-01T20:41:02 IST" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:02 IST" name="setup" finished-at="2024-09-01T20:41:06 IST" duration-ms="3561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SortBy()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:06 IST" name="SortBy" finished-at="2024-09-01T20:41:18 IST" duration-ms="12074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortBy -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:18 IST" name="teardown" finished-at="2024-09-01T20:41:18 IST" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:18 IST" name="setup" finished-at="2024-09-01T20:41:21 IST" duration-ms="2935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Womens_Dress()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:21 IST" name="Womens_Dress" finished-at="2024-09-01T20:41:24 IST" duration-ms="3520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Womens_Dress -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:24 IST" name="teardown" finished-at="2024-09-01T20:41:24 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:24 IST" name="setup" finished-at="2024-09-01T20:41:27 IST" duration-ms="2987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Womens_Kurthi()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:27 IST" name="Womens_Kurthi" finished-at="2024-09-01T20:41:29 IST" duration-ms="1802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Womens_Kurthi -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:29 IST" name="teardown" finished-at="2024-09-01T20:41:29 IST" duration-ms="128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:29 IST" name="setup" finished-at="2024-09-01T20:41:33 IST" duration-ms="3483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Womens_NAll()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:33 IST" name="Womens_NAll" finished-at="2024-09-01T20:41:36 IST" duration-ms="2953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Womens_NAll -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:36 IST" name="teardown" finished-at="2024-09-01T20:41:36 IST" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:36 IST" name="setup" finished-at="2024-09-01T20:41:39 IST" duration-ms="3208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Womens_NPcs()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:39 IST" name="Womens_NPcs" finished-at="2024-09-01T20:41:42 IST" duration-ms="2549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Womens_NPcs -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:42 IST" name="teardown" finished-at="2024-09-01T20:41:42 IST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:42 IST" name="setup" finished-at="2024-09-01T20:41:45 IST" duration-ms="3141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Womens_NPrice()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:45 IST" name="Womens_NPrice" finished-at="2024-09-01T20:41:48 IST" duration-ms="2881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Womens_NPrice -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:48 IST" name="teardown" finished-at="2024-09-01T20:41:48 IST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:48 IST" name="setup" finished-at="2024-09-01T20:41:51 IST" duration-ms="3196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Womens_NTypes()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:51 IST" name="Womens_NTypes" finished-at="2024-09-01T20:41:53 IST" duration-ms="2104" status="FAIL">
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
+            <message>
+              <![CDATA[stale element reference: stale element not found in the current frame
+  (Session info: chrome=128.0.6613.113)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [71b48c24d35a458544f579f28840f8f0, clickElement {id=f.8DF335DBE8D5E8C3E10BC26B7D52FCEB.d.114D343955A22FA9756994DEABDBD7E8.e.161}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.113, chrome: {chromedriverVersion: 128.0.6613.86 (3045ed680fda..., userDataDir: C:\Users\annie\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49276}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49276/devtoo..., se:cdpVersion: 128.0.6613.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (71b48c24d35a458544f579f28840f8f0)] -> name: Nighties]
+Session ID: 71b48c24d35a458544f579f28840f8f0]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found in the current frame
+  (Session info: chrome=128.0.6613.113)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [71b48c24d35a458544f579f28840f8f0, clickElement {id=f.8DF335DBE8D5E8C3E10BC26B7D52FCEB.d.114D343955A22FA9756994DEABDBD7E8.e.161}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.113, chrome: {chromedriverVersion: 128.0.6613.86 (3045ed680fda..., userDataDir: C:\Users\annie\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49276}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49276/devtoo..., se:cdpVersion: 128.0.6613.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (71b48c24d35a458544f579f28840f8f0)] -> name: Nighties]
+Session ID: 71b48c24d35a458544f579f28840f8f0
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy11.click(Unknown Source)
+at pageClasses.WomensWear_Page.Night_AllTypes(WomensWear_Page.java:363)
+at test.FinalTest.Womens_NTypes(FinalTest.java:199)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:155)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeSingleClass(TestNGDirectoryTestSuite.java:102)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:91)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:137)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Womens_NTypes -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:53 IST" name="teardown" finished-at="2024-09-01T20:41:53 IST" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:53 IST" name="setup" finished-at="2024-09-01T20:41:56 IST" duration-ms="2587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Womens_Nbrand()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:56 IST" name="Womens_Nbrand" finished-at="2024-09-01T20:41:59 IST" duration-ms="3140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Womens_Nbrand -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:59 IST" name="teardown" finished-at="2024-09-01T20:41:59 IST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:41:59 IST" name="setup" finished-at="2024-09-01T20:42:03 IST" duration-ms="3839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Womans_Kurthi()[pri:2, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:42:03 IST" name="Womans_Kurthi" finished-at="2024-09-01T20:42:09 IST" duration-ms="5406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Womans_Kurthi -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:42:09 IST" name="teardown" finished-at="2024-09-01T20:42:09 IST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:42:09 IST" name="setup" finished-at="2024-09-01T20:42:11 IST" duration-ms="2712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Womens_ShawlsCEF()[pri:4, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:42:11 IST" name="Womens_ShawlsCEF" finished-at="2024-09-01T20:42:16 IST" duration-ms="5087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Womens_ShawlsCEF -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:42:16 IST" name="teardown" finished-at="2024-09-01T20:42:17 IST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="flush()[pri:0, instance:test.FinalTest@4c9f8c13]" started-at="2024-09-01T20:42:17 IST" name="flush" finished-at="2024-09-01T20:42:17 IST" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+      </class> <!-- test.FinalTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
