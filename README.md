@@ -24,15 +24,15 @@ CW_POM_1
 ├── src/
 │   ├── main/
 │   │   ├── java/
-│   │   │   └── page classess/
-│   │   │       ├── AddCompare_Page.java
-│   │   │       ├── Apparel_Accessories.java
-│   │   │       ├── Home_Page.java
-│   │   │       ├── MensWear_Page.java
-│   │   │       ├── Personal_Search.java
-│   │   │       └── WomensWear_Page.java
-│   │   └── resources/
-│   │       └── config.properties
+│   │       └── page classess/
+│   │           ├── AddCompare_Page.java
+│   │           ├── Apparel_Accessories.java
+│   │           ├── Home_Page.java
+│   │           ├── MensWear_Page.java
+│   │           ├── Personal_Search.java
+│   │           └── WomensWear_Page.java
+│   │   
+│   │       
 │   ├── test/
 │   │   ├── java/
 │   │   │   ├── generics/
@@ -44,7 +44,26 @@ CW_POM_1
 └── pom.xml
 ```
 
-Cucumber Directory Structure  
+Cucumber Directory Structure:
+```
+CW_Cucumber_2/
+├── src/
+│   ├── main/     
+│   ├── test/
+│   │   ├── java/
+│   │   │   ├── runner/
+│   │   │   │   └── TestRunner.java
+│   │   │   └── step_definition/
+│   │   │       ├── AA_Mens.java
+│   │   │       └── AA_Womens.java
+│   ├── test/
+│   │   └── resources/
+│   │       └── Naaptol/
+│   │           ├── MensWear.feature
+│   │           └── WomensWear.feature
+├── pom.xml
+
+```
 
 
 ## Features
@@ -64,9 +83,14 @@ Create a Maven project in IDE
 Add Dependencies in pom.xml: Include Selenium, TestNG, Cucumber, Screenshots,Extent Reports and other necessary dependencies.
 
 ## Usage
+1. Clone the Repository
+   
+2. Create a folder and Navigate to the the folder and Open a command prompt and use the command
+```
+mvn test
+```
 
 ## Screenshots
-
 
 ## Link of the Website
 https://www.naaptol.com/
